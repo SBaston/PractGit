@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hola
-=======
-Hola2
->>>>>>> 66a26fc (Add Rama)
